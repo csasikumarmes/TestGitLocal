@@ -1,3 +1,5 @@
 Test
 Test Git
 Test Local
+Test Clone
+Test Eclipse
